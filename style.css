@@ -1,0 +1,42 @@
+body{
+    background-color: lightbeige;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    margin: 0;
+    padding: 0;
+}
+.invite-card
+{
+    width: 80%;
+    padding: 10px;
+    border-radius: 10px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+    margin: auto;
+    margin-top: 10px;
+}
+h1,h3{
+    text-align: center;
+    color: #af4c63;
+    word-spacing: 5px;
+}
+p{
+    text-align: center;
+}
+img{
+    border-radius: 50%;
+    display: block;
+    margin: 20px auto;
+    max-width: 100%;
+}
+footer{
+    background-color: rgb(220, 123, 141);
+    padding: 10px;
+    font-size: smaller;
+    
+}
+a{
+    text-decoration: none;
+    
+}
+label{
+    font-weight: bold;
+}
